@@ -1,6 +1,6 @@
 # Kortix, the open-source CompanyOS, and the personal agents beside it
 
-Kortix is the open-source CompanyOS. It gives a team one git repo it owns for every agent, skill, memory file, and connector, with each session running on its own isolated cloud computer and work landing through a change request a person approves. Hermes is a self-hosted personal agent with persistent memory: one operator, one machine, an agent that grows with them. Kortix is open source: read it, fork it, audit it. See [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is the open-source CompanyOS. It gives a team one git repo it owns for every agent, skill, memory file, and connector, with each session running on its own isolated cloud computer and work landing through a change request a person approves. Hermes is a self-hosted personal agent with persistent memory: one operator, one machine, an agent that grows with them. Kortix is open source: read it, fork it, audit it. See [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 Hermes is good at exactly what it is built for. A single person who wants an always-on agent on a server they control, in the chat apps they already use, learning as it runs, gets that from Hermes without running a company platform. Kortix is the other shape on purpose: the platform a team owns and governs once more than one person steers the agents. The two solve different sizes of the same problem. These notes are written so you can pick the size that fits.
 
